@@ -29,10 +29,10 @@ if ($decision -eq 0) {
     # Create script
 
 $driveindexhome = @'
-# Timeframe Drive Index Script v1
+# Timeframe Drive Index Script v1.1
 # Copyright Christoph Helms
 # Make sure you allow Administrator unrestricted Powershell access by setting set-executionpolicy unrestricted
-# Requires -version 2.1
+# Requires -version 2.0
 
 # Setup Work Environment
 
